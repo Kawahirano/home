@@ -18,16 +18,16 @@
     "url": "https://res.abeim.cn/api/qq/?qq=2512826938"
   },
   {
-    "name": "Email",
-    "icon": "/images/icon/email.png",
-    "tip": "来封 Email ~",
-    "url": "2512826938@qq.com"
-  },
-  {
     "name": "Weibo",
     "icon": "/images/icon/weibo.png",
     "tip": "关注我微博哦",
     "url": "https://weibo.com/3971402638"
+  },
+  {
+    "name": "Email",
+    "icon": "/images/icon/email.png",
+    "tip": "来封 Email ~",
+    "url": "2512826938@qq.com"
   },
   {
     "name": "Telegram",
