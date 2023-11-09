@@ -18,6 +18,12 @@
     "url": "https://res.abeim.cn/api/qq/?qq=2512826938"
   },
   {
+    "name": "weixi",
+    "icon": "/images/icon/weixin.png",
+    "tip": "扫码加好友",
+    "url": "https://cdn.jsdelivr.net/gh/Kawahirano/tobed/202311091348188.jpg"
+  },
+  {
     "name": "Weibo",
     "icon": "/images/icon/weibo.png",
     "tip": "关注我微博哦",
@@ -28,12 +34,6 @@
     "icon": "/images/icon/email.png",
     "tip": "来封 Email ~",
     "url": "2512826938@qq.com"
-  },
-  {
-    "name": "Telegram",
-    "icon": "/images/icon/telegram.png",
-    "tip": "你懂的 ~",
-    "url": "https://t.me/bottom_user"
   }
 ]
 
